@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "a09daab42488718e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aed44ce59ad4ec0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85f0e47fe63634e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jetbrains Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c87c186d01bfef53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aliases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6d66c7c7279bff1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdfcc8265601cd6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jetbrains Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46af6016a12a77e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b691be2a5544971f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "791841fbf1d04163",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66aba900e91d673f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6fd879bb5bed8f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "04f52ce5b529806a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c19dc4bc789d209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c68cd94bfcdb291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aliases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b86e7232f39ed165",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aliases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8378c2a06993a6d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d40e2e314aede7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aliases.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "c87c186d01bfef53",
+  "lastOpenFiles": [
+    "Jetbrains Space.md",
+    "Aliases.md",
+    "022. 문헌메모 템플릿.md",
+    "0. 지식창고/020. 템플릿 양식/024. 키워드 템플릿/024. 키워드 템플릿.md",
+    "0. 지식창고/020. 템플릿 양식/027. 두번째 뇌 템플릿/027. 두번째 뇌 템플릿.md",
+    "0. 지식창고/010. 기타정보/011. 첨부 파일/memostructure.png",
+    "메모구조.md",
+    "0. 지식창고/010. 기타정보/011. 첨부 파일/Pasted image 20230616165850.png",
+    "0. 지식창고/020. 템플릿 양식/026. 주장 메모 템플릿/026. 주장 메모 템플릿.md",
+    "5. zettelkasten/1 - memo/주장 메모 템플릿.md",
+    "0. 지식창고/020. 템플릿 양식/025. 의견 메모 템플릿/025. 의견 메모 템플릿.md",
+    "5. zettelkasten/1 - memo/의견 메모 템플릿.md",
+    "5. zettelkasten/1 - memo/키워드 템플릿.md",
+    "Untitled 1.md",
+    "0. 지식창고/020. 템플릿 양식/023. 영구보관용 메모 템플릿/영구보관용 메모 템플릿.md",
+    "_인덱스.md",
+    "0. 지식창고/020. 템플릿 양식/021. 일간노트 템플릿/021. 일간노트 템플릿.md",
+    "블록 레퍼런스.md",
+    "블록레퍼런스 한줄 요약.md",
+    "새로운 노트.md",
+    "숨김기능.md",
+    "일부만 선택하는 블록레퍼런스.md",
+    "임베드.md",
+    "현재 페이지.md",
+    "Latex.md",
+    "test canvas.canvas",
+    "023. 영구보관용 메모 템플릿.md",
+    "Untitled.md",
+    "second-brain/README.md",
+    "second-brain/Pasted image 20230616105909.png",
+    "5. zettelkasten/5 - second brain",
+    "5. zettelkasten/4 - statement",
+    "5. zettelkasten/3 - opinion",
+    "5. zettelkasten/2 - keyword",
+    "5. zettelkasten/1 - memo",
+    "5. 제텔카스텐/2: 키워드}",
+    "5. 제텔카스텐/{1: 메모,",
+    "4. 일간노트/2023/12",
+    "4. 일간노트/2023/11",
+    "4. 일간노트/2023/10",
+    "second-brain/test canvas.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas"
+  ]
+}

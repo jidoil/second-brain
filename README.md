@@ -1,2 +1,0 @@
-# second-brain
-obsidian notes
